@@ -1,0 +1,7 @@
+apiVersion: v2
+name: akri-example
+version: 0.1.0
+dependencies:
+- name: akri
+  version: 0.13.4
+  repository: https://project-akri.github.io/akri/
